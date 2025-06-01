@@ -15,6 +15,9 @@ Step 4: call the objects and execute the program
 
 ### PROGRAM:
 ```
+#Name:Rizwan T
+#Reg no:212222090008
+
 class Beans ():
     def type(self):   
           print("Vegetable")
@@ -50,6 +53,9 @@ Step2: def it	with a condition if self.a < o.a
 Step 3: call the function and execute the program.
 ### PROGRAM:
 ```
+#Name:Rizwan T
+#Reg no:212222040134
+
 class A :
      def     init (self,a):
              self.a=a
@@ -80,7 +86,11 @@ Step2:put class function to define the function using self
 Step3:By using the function to find the area of the rectangle and circle Step4:Execute the program.
 
 ### PROGRAM:
-```from abc import ABC
+```
+#Name:Rizwan T
+#Reg no:212222040134
+
+from abc import ABC
 class Shape(ABC):
             def calculate_area(self):
                 Pass
@@ -109,6 +119,9 @@ EXP.No: 6.4     ENCAPSULATION
 ###ALGORITHM: Step1: put class function to define the function using self Step2: By using the function to find the area of the rectangle Step3: Execute the program.
 ###PROGRAM:
 ```
+#Name:Rizwan T
+#Reg no:212222040134
+
 class Rectangle:
  	length = 0
  	breadth = 0
